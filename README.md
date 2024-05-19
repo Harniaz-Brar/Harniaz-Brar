@@ -8,8 +8,6 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harniaz-brar) | [Email](mailto:your-email@example.com)
 
-⚡ Pronouns: He/Him
-
 🎉 Fun fact: I enjoy turning raw data into actionable insights and discovering patterns that drive decision-making.
 
 ## Experience
