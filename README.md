@@ -36,9 +36,8 @@
 - **SQL**: Proficient in writing complex queries for data retrieval and analysis.
 - **Tableau**: Experienced in creating interactive dashboards and visualizations.
 - **Python**: Skilled in using Python for data analysis and predictive modeling.
-- **Excel**: Proficient in using Excel for data analysis, visualization, and reporting.
-- **Data Cleaning**: Expertise in cleaning and preparing data for analysis.
+- **Apache Spark**: Proficient in using Apache Spark, including PySpark, for large-scale data processing and analytics.
 
 ## Education
 
-- Degree in Computer Science from Thapar University
+- Bachelor's Degree in Computer Science from Thapar University
